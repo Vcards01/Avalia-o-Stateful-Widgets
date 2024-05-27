@@ -1,17 +1,15 @@
-# avaliacao_stateful_widgets
+# Calculadora de Média
 
-Avaliação sobre Stateful Widgets
+Este é um aplicativo simples de calculadora de média desenvolvido em Flutter. Ele permite que os usuários insiram três notas, calcule a média dessas notas e exiba o resultado na tela.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Inserção de nome e e-mail do usuário.
+- Inserção de três notas.
+- Cálculo da média das três notas.
+- Exibição do resultado com nome, e-mail, notas e média.
+- Limpeza dos campos de entrada sem apagar os rótulos.
+- Fechamento automático do teclado ao tocar fora dos campos de entrada.
 
-A few resources to get you started if this is your first Flutter project:
+## Captura de Tela
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Avaliacao-Stateful-Widgets
